@@ -4,9 +4,9 @@ using System.Diagnostics.Contracts;
 
 namespace ConsoleApp64
 {
+   public class Person
+   {
 
-    public class Person
-    {
         public string name { get; private set; }
         public int age { get; private set; }
 
